@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyOnActivityForResult</string>
+    <string name="button_text">Go to second activity</string>
+    <string name="button2_text">Go to first activity</string>
+    <string name="edit_text">Please Enter Your Name :</string>
+
+</resources>
